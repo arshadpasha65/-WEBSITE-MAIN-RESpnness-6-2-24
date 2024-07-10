@@ -203,6 +203,7 @@ footer {
        
         /* height: 100vh; */
         height: auto;
+        
     }
 
     header nav img {
@@ -231,6 +232,7 @@ footer {
 
         margin-top: 0% ;
         margin-right: 30%;
+        
     
     }
 
@@ -463,8 +465,47 @@ footer {
 /***********************************    project media ***********************************/ 
 
 
+/* 
+.project1{
+ 
+    height: 200px;
+    width: 260px;
+    margin: 40px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 14px white, -5px -5px 14px white;
+}
+.project1 img{
+    height: 150px;
+    width: 350px;
+    border-radius: 6%;
+    transition: 500ms;
+  
+    padding: 4px ;
+  
+    
+} */
+/* .project1 h1{
+    color: var(--arshad-color);
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.project1 h3{
+    color: white;
+    margin-left: 5%;
+}
+
+.projectCon{
+   
+   
+    justify-content: space-evenly;
+}
+
+.project1 img:hover {
+    transform: scale(1.1);
+  } */
 .projectCon{
     display: grid;
+    
     
 }
 
